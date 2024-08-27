@@ -1,8 +1,5 @@
-login:
-
-email:hansikagajarla@gmail.com
-
-password:25Hansika
+login:email:hansikagajarla@gmail.com
+            password:25Hansika
 
 
 
